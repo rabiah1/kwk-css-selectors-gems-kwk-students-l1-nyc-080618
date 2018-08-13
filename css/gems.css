@@ -18,7 +18,7 @@
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
-#sand img {
+#sand {
   position: absolute;
   z-index: 5;
   top: 315px;
@@ -34,7 +34,7 @@
   left: 200px;
 }
 
-#diamond_gem {
+#diamond {
   position: absolute;
   z-index: 3;
   top: 300px;
