@@ -1,6 +1,6 @@
 /* Select the image with a id of ruby */
 
-#sand {
+#sand img {
   position: absolute;
   z-index: 1;
   top: 315px;
